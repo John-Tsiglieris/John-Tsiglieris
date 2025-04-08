@@ -2,7 +2,6 @@
 -  22
 +  23
 year old programmer based in California
-}
 ```
 
 
