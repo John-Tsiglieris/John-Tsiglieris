@@ -1,6 +1,10 @@
-## Hello!
+```diff
+-  22
++  23
+year old programmer based in California
+}
+```
 
-I am John, a 22 year old programmer based in California
 
 <!--
 **John-Tsiglieris/John-Tsiglieris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
