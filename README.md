@@ -1,12 +1,9 @@
-```diff
--  22
-+  23
-year old programmer based in California
-```
+Hello! I'm a 23 year old programmer based in California.
+Praise Linux
 
 <!-- Linux enjoyer. terminal wizard, other cool shit, idk look at agora road --> 
 <!-- Terminal aesthetics --> 
-
+<!--
 <h1 align="center">Hi 👋, I'm YourName</h1>
 
 <p align="center">
@@ -54,7 +51,7 @@ year old programmer based in California
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-
+-->
 
 <!--
 **John-Tsiglieris/John-Tsiglieris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
