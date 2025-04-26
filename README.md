@@ -1,6 +1,7 @@
 Hello! I'm a 23 year old programmer based in California.
 
 ![Simple-Metrics](/github-metrics.svg)
+<!-- Read here for more info on metrics: https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md -->
 
 <!-- Linux enjoyer. terminal wizard, other cool shit, idk look at agora road --> 
 <!-- Terminal aesthetics --> 
