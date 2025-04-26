@@ -1,5 +1,6 @@
 Hello! I'm a 23 year old programmer based in California.
-Praise Linux
+
+![Simple-Metrics](https://raw.githubusercontent.com/John-Tsiglieris/John-Tsiglieris/github-metrics.svg)
 
 <!-- Linux enjoyer. terminal wizard, other cool shit, idk look at agora road --> 
 <!-- Terminal aesthetics --> 
